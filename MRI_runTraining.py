@@ -4,7 +4,7 @@
 """
 Created on Mon Jun 19 09:41:21 2017
 
-@author: sk834
+@author: sarina karmacharya
 """
 
 import time
