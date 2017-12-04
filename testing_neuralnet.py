@@ -3,16 +3,9 @@
 """
 Created on Mon Jun 19 09:41:21 2017
 
-@author: sk834
+@author: sarina karmacharya
 """
 
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May 21 19:17:20 2017
-
-@author: sk834
-"""
 
 
 from __future__ import absolute_import
